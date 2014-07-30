@@ -1,3 +1,5 @@
+// initial build
+
 <?php
 	$hostname = "localhost";
 	$username = "root";
