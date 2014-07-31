@@ -1,5 +1,3 @@
-// initial build
-
 <?php
 	session_start();
 	require "config.php";

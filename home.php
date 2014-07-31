@@ -1,5 +1,3 @@
-<!-- initial build -->
-
 <!DOCTYPE html>
 
 <html lang="en">
@@ -12,7 +10,8 @@
 </head>
 <body>
 
-<a href="signout.php">Sign Out</a>
+<p><a href="signout.php">Sign Out</a></p>
+<p><a href="profile.php">Profile</a></p>
 
 </body>
 </html>
